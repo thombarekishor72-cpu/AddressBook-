@@ -5,16 +5,6 @@ This is a simple **Address Book Management System** implemented in **C programmi
 
 The project is designed as a learning tool for beginners to practice file handling, structures, and modular programming in C.
 
-## 📂 Project Structure
-
-AddressBook-Skeleton/
-├── a.out # Compiled executable file
-├── contact.c # Implementation of contact-related functions
-├── contact.h # Header file containing declarations
-├── dummy_contact.c # Sample code or test data for contacts
-├── file.csv # CSV file used for storing contact data
-└── main.c # Main program file
-
 
 ## ⚙️ Features
 ✔ Add new contact details  
